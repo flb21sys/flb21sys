@@ -45,7 +45,7 @@ Estudiante del **Máster en Ingeniería MultiCloud & DevSecOps** en Tajamar y **
 
 ## 📫 Conecta conmigo
 
-* 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/fredy-alexander-lemos-barre-8987991bb)
+* 💼 **LinkedIn:** [Fredy Alexander Lemos Barre](https://linkedin.com/in/fredy-alexander-lemos-barre-8987991bb)
 * 🐙 **GitHub:** [@flb21sys](https://github.com/flb21sys)
 * ✉️ **Email:** [flbarre25@gmail.com](mailto:flbarre25@gmail.com)
-* 📍 **Ubicación:** Madrid, España
+  
