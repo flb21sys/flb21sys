@@ -2,7 +2,7 @@
 
 ### 🚀 Administrador de Sistemas | Cloud & DevSecOps Engineer in Progress
 
-Estudiante del **Máster en Ingeniería MultiCloud & DevSecOps** en Tajamar y **Técnico Superior en ASIR**[cite: 9]. Enfocado en la administración de sistemas, infraestructura cloud (Azure / Microsoft 365), redes y seguridad, con experiencia práctica en automatización y despliegues de infraestructura[cite: 8, 9].
+Estudiante del **Máster en Ingeniería MultiCloud & DevSecOps** en Tajamar y **Técnico Superior en ASIR**[cite: 9]. Enfocado en la administración de sistemas, infraestructura cloud (Azure / Microsoft 365), redes y seguridad, con experiencia práctica en automatización y despliegues de infraestructura.
 
 ---
 
